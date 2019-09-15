@@ -20,7 +20,7 @@ use Source\safephp;
 ```
 
 # API
-<a href="https://alperdursun.com.tr/safepm/api">Click and wiew to api page</a>
+<a href="http://alperdursun.com.tr/safepm/api">Click and wiew to api page</a>
 
 # Donate
 Coming Soon
