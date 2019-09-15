@@ -19,6 +19,11 @@ use Source\safephp;
 ?>
 ```
 
+# Specifications
+- Enable message
+- Disable message
+- Create Scheduler Task
+
 # API
 <a href="http://alperdursun.com.tr/safepm/api">Click and wiew to api page</a>
 
