@@ -1,0 +1,2 @@
+# SafePM
+Pocketmine plugin framework.
