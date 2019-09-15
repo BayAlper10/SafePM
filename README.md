@@ -1,5 +1,7 @@
 # SafePM
 
+[![HitCount](http://hits.dwyl.io/BayAlper10/SafePM.svg)](http://hits.dwyl.io/BayAlper10/SafePM)
+
 # Information
 ```
 SafePM is under development pocketmine framework.
